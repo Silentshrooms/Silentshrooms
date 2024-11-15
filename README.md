@@ -12,7 +12,7 @@
    - Visual Communication Design Degree
    - GPA 3.84
    - Art Events Organizer 
- #### 2. [SMA Sutomo 1 Medan](https://sutomo-mdn.sch.id) | MIPA | Medan `2020-2023`
+#### 2. [SMA Sutomo 1 Medan](https://sutomo-mdn.sch.id) | MIPA | Medan `2020-2023`
    - Decoration Leader of Wall Magazine Extracurricular
    - Member of MAYO Art Club
    - Member of Astronomy Extracurricular
